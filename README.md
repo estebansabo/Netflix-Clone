@@ -18,6 +18,15 @@ This clone is quite simple, but it helps to understand basic concepts such as OR
 ## 🚀 About Me
 Full-Stack developer. Web developer since 2009, I took a break to dedicate myself to bitcoin mining. Now I am a programmer who works from home, I currently love learning new technologies on the frontend side.
 
+##Env.
+DATABASE_URL=
+GOOGLE_CLIENT_ID=
+GOOGLE_CLIENT_SECRET=
+GITHUB_ID=
+GITHUB_SECRET=
+NEXTAUTH_JWT_SECRET=
+NEXTAUTH_SECRET=
+
 ## Acknowledgements
 
  - [All Credit to "Code With Antonio" the inspiration for this project](https://github.com/AntonioErdeljac)
