@@ -65,5 +65,4 @@ model Movie {
   thumbnailUrl String
   videoUrl String
   gender String
-  
 }

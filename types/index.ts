@@ -5,5 +5,5 @@ export interface MovieInterface {
     thumbnailUrl: string;
     videoUrl: string;
     duration: string;
-    genre: string;
+    gender: string;
   }
