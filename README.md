@@ -6,7 +6,7 @@
 
 Netflix clone using Next.js 14 (pages, i know btw).
 
-This clone is quite simple, but it helps to understand basic concepts such as ORM, non-relational databases, email authentication and other services such as Google or GitHub.
+This clone is quite simple, but it helps to understand basic concepts such as ORM, non-relational databases, email authentication/Google or GitHub.
 
 ## Tech Stack
 
