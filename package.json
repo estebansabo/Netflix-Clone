@@ -1,12 +1,13 @@
 {
-  "name": "netflix-clone",
-  "version": "0.1.0",
+  "name": "netflix-clone-by-esteban-sabo",
+  "version": "1.0.0",
   "private": true,
   "scripts": {
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint"
+    "lint": "next lint",
+    "postinstall": "prisma generate"
   },
   "dependencies": {
     "@heroicons/react": "^2.0.18",
